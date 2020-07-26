@@ -8,7 +8,7 @@
 
 ## Included Components
 
-* [MongoDB](https://cloud.ibm.com/docs/infrastructure/database-tools?topic=database-tools-dbt-mongodb): Fully featured NoSQL server that is horizontally scalable to meet your enterprise-class database service needs.
+* [MongoDB](https://www.mongodb.com/cloud/atlas): Fully featured NoSQL server that is horizontally scalable to meet your enterprise-class database service needs.
 * [Express](https://expressjs.com/): Most popular and minimalistic web framework for creating API and Web server.
 * [React](https://reactjs.org/): JavaScript library for building user interfaces.
 
